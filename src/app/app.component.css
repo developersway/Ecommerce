@@ -1,0 +1,23 @@
+body,html{
+    overflow-x: hidden;
+}
+
+.outerContainer{
+    display : flex;
+    justify-content: space-around;
+}
+
+.imageDimension{
+    width : 90%;
+    height : 300px;
+}
+
+.productContanier{
+    height : 200px;
+}
+
+.centerTheProducts{
+    width: 100%;
+    display : flex;
+    justify-content: center;
+}
